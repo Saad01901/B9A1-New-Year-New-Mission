@@ -1,0 +1,115 @@
+/* header */
+.header {
+    background-image: url('../resources/Banner\ Image.png');
+    width: 1320px;
+    height: 600px;
+}
+
+.header-h {
+    width: 632px;
+    padding: 150px 350px;
+    text-align: center;
+}
+
+.header-title1 {
+    color: #FFF;
+
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+
+    margin-bottom: 0;
+}
+
+.header-title2 {
+    color: #FFF;
+
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+
+    margin-top: 0;
+}
+
+/* new-year-deals */
+.new-year-deals {}
+
+.new-year-deals-h1 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+
+}
+
+.new-year-deals-h2 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+
+
+
+    margin-bottom: 0;
+}
+
+.new-year-deals-h3 {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    margin-top: 10px;
+}
+
+.new-year-deals-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* party-section */
+.party {
+    background-image: url('../resources/Vectorrr.png');
+    width: 1320px;
+height: 600px;
+display: flex;
+justify-content: space-between;
+}
+.party-heading{
+    color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+letter-spacing: 7.04px;
+margin-bottom: 0;
+padding-bottom: 0;
+}
+.party-div1{
+    width: 642px;
+    margin: auto;
+    padding-bottom: 100px;
+}
+.party-div2{
+    margin: auto;
+}
+
+.party-pera{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    border: none;
+    padding-bottom: 0;
+}
+.party-btn{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 23px;
+   border: none;
+   background: none;
+    padding-top: 35px;
+}
+.party-img{
+    width: 319.83px;
+height: 464.662px;
+}
