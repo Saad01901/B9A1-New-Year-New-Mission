@@ -1,4 +1,4 @@
-/* header */
+/* header section */
 .header {
     background-image: url('../resources/Banner\ Image.png');
     width: 1320px;
@@ -13,11 +13,9 @@
 
 .header-title1 {
     color: #FFF;
-
     font-family: Merriweather;
     font-size: 32px;
     font-style: normal;
-
     margin-bottom: 0;
 }
 
@@ -27,7 +25,6 @@
     font-family: Merriweather;
     font-size: 72px;
     font-style: normal;
-
     margin-top: 0;
 }
 
@@ -42,7 +39,6 @@
     text-align: center;
     font-family: Inter;
     font-size: 88px;
-
 }
 
 .new-year-deals-h2 {
@@ -133,7 +129,6 @@
     font-family: Inter;
     font-size: 30px;
     text-align: center;
-
 }
 
 .party-info>p>span {
@@ -324,48 +319,61 @@
 
 footer {
     width: 1320px;
-    height: 500px;
+    height: 550px;
     background: #070211;
 }
 
 .footer-para1 {
     color: #FFF;
-font-family: Inter;
-font-size: 14px;
-text-align: left;
-width: 300px;
-align-items: center;
-margin-top: 90px;
-margin-left: 50px;
+    font-family: Inter;
+    font-size: 14px;
+    text-align: left;
+    width: 300px;
+    align-items: center;
+    margin-top: 90px;
+    margin-left: 50px;
 }
-.footer-section-1{
-width: 1320px;
-height: 200px;
-display: flex;
-justify-content: space-between;
+
+.footer-section-1 {
+    width: 1320px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
 }
-.footer-para2{
+
+.footer-para2 {
     color: #FFF;
     font-family: Inter;
     font-size: 18px;
     text-align: left;
     width: 300px;
     align-items: center;
-    margin-top: 90px;
+    margin-top: 30px;
     margin-left: 80px;
 }
-.footer-section-2{
-    justify-content: space-between ;
-    margin-left: 550px;
+
+.footer-section-2 {
+    justify-content: space-between;
+    margin-left: 460px;
+    padding-bottom: 40px;
 }
-.footer-section-3{
+
+.footer-section-3 {
     width: 1320px;
-height: 200px;
+    height: 200px;
     display: flex;
-justify-content: space-between;
+    justify-content: space-between;
+
 }
-.line-break{
+
+.line-break {
     width: 1200px;
-height: 1px;
-background: rgba(255, 255, 255, 0.15);
+    height: 1px;
+    background: rgba(255, 255, 255, 0.15);
+    margin-bottom: 50px;
+    opacity: 0.20;
+}
+
+.footer-icon {
+    margin-left: 24px;
 }
